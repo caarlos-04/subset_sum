@@ -68,6 +68,5 @@ if __name__ == "__main__":
 
     if subsets:
         print("There are", len(subsets), "subsets")
-        print(subsets)
     else:
         print("No solutions found")
